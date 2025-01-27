@@ -1,10 +1,3 @@
-Svensk-engelsk belysningsordlista baserad pÂ CIE International Lighting Vocabulary
-2010-02-17
-
-Listan innehÂller ord och uttryck rˆrande strÂlning, ljus, seende och belysning. Definitioner av de engelska orden och begreppen finns i CIE International Lighting Vocabulary som kan hittas via CIE:s hemsida www.cie.co.at. Efter en del ord stÂr den beteckning, som man brukar anv‰nda fˆr storheten, inom parentes.
-
-I amerikansk engelska anv‰nds ibland andra ord, vilket kan vara bra att veta om man vill skriva fˆr en amerikansk publik. Detta markeras med (USA) efter ordet.
-
 A
 Abneys fenomen	Abney phenomenon
 Abneys lag	Abney's law
@@ -15,9 +8,9 @@ absorptionsfaktor	absorptance
 accentbelysning	accent lighting
 ackommodation	accommodation
 adaptation	adaptation
-adaptationsbetingad f‰rgfˆr‰ndring	adaptive colour shift adaptationsstatus	state of adaptation
-adaptiv kolorimetrisk fˆr‰ndring	adaptive colorimetric shift additiv blandning av f‰rgstimuli	additive mixture of colour stimuli
-aff‰rsgata	commercial street; shopping street
+adaptationsbetingad f√§rgf√∂r√§ndring	adaptive colour shift adaptationsstatus	state of adaptation
+adaptiv kolorimetrisk f√∂r√§ndring	adaptive colorimetric shift additiv blandning av f√§rgstimuli	additive mixture of colour stimuli
+aff√§rsgata	commercial street; shopping street
 aggregat	aggregates
 akromatiskt stimulus	achromatic stimulus
 akterlanterna	stern light
@@ -27,40 +20,40 @@ aktinisk dos	actinic dose
 (aktinisk) erytem	actinic erythema
 aktinism	actinism
 aktionsspektrum	action spectrum; spectral weighting function
-aktionsspektrum fˆr erytem	erythema action spectrum; erythema spectral weighting function
+aktionsspektrum f√∂r erytem	erythema action spectrum; erythema spectral weighting function
 
-aktivitetszoner med miljˆkrav	environmental zones
+aktivitetszoner med milj√∂krav	environmental zones
 Allards lag	Allard's law
-allm‰nbelysning	general lighting
-allm‰nbrukslampa	general lighting service lamp; GLS lamp
+allm√§nbelysning	general lighting
+allm√§nbrukslampa	general lighting service lamp; GLS lamp
 alykne	alychne
-andelskvot fˆr nedÂtriktat ljus	downward flux fraction (of a luminaire)
-andelskvot fˆr uppÂtriktat ljus	upward flux fraction (of a luminaire)
+andelskvot f√∂r ned√•triktat ljus	downward flux fraction (of a luminaire)
+andelskvot f√∂r upp√•triktat ljus	upward flux fraction (of a luminaire)
 anpassat vitt	adapted white
-anslutningsv‰g	collector road; distributor road
+anslutningsv√§g	collector road; distributor road
 antagen vitpunkt	adopted white point
 antaget vitt	adopted white
 arbetsnormal(lampa)	working standard lamp
 arbetsplats	work place
 arbetsstation	work station
 arbetsyta	task area, work plane; working plane; utilization plane
-armaturavstÂnd	spacing (in an installation)
+armaturavst√•nd	spacing (in an installation)
 armaturverkningsgrad	light output ratio (of a luminaire);
 luminaire efficiency (USA)
 astronomisk solskenstid	astronomical sunshine duration
-ateljÈstrÂlkastare	studio floodlight
-atmosf‰rens optiska t‰thet	optical thickness (of the atmosphere)
-atmosf‰risk transmissivitet	atmospheric transmissivity
-atmosf‰risk transmittans	atmospheric transmittance
-avl‰sningsavstÂnd (hastig blick)	legibility distance (under rapid glance conditions)
-avl‰sningsavstÂnd (tidsoberoende)	legibility distance avsk‰rmning	cut-off
-avsk‰rmningsvinkel	cut-off angle; shielding angle
-avstÂnd till v‰gg	proximity
-avvikande f‰rgseende	anomalous trichromatism; defective colour vision
+atelj√©str√•lkastare	studio floodlight
+atmosf√§rens optiska t√§thet	optical thickness (of the atmosphere)
+atmosf√§risk transmissivitet	atmospheric transmissivity
+atmosf√§risk transmittans	atmospheric transmittance
+avl√§sningsavst√•nd (hastig blick)	legibility distance (under rapid glance conditions)
+avl√§sningsavst√•nd (tidsoberoende)	legibility distance avsk√§rmning	cut-off
+avsk√§rmningsvinkel	cut-off angle; shielding angle
+avst√•nd till v√§gg	proximity
+avvikande f√§rgseende	anomalous trichromatism; defective colour vision
 
 
 B
-backningsstrÂlkastare	reversing light; backup light (USA)
+backningsstr√•lkastare	reversing light; backup light (USA)
 bajonettsockel	bayonet cap; bayonet base (USA)
 bakgrund	background
 
@@ -68,41 +61,41 @@ bakgrundsplatta	backboard
 bakgrundsyta backing board
 bakre positionslykta	tail-light; rear position light
 bakre skyltlykta	rear registration-plate light; license plate light (USA)
-bakteriedˆdande lampa	bactericidal lamp; germicidal lamp
-bakteriedˆdande strÂlning	bactericidal radiation; germicidal radiation; microbiological radiation
+bakteried√∂dande lampa	bactericidal lamp; germicidal lamp
+bakteried√∂dande str√•lning	bactericidal radiation; germicidal radiation; microbiological radiation
 bancenterlinjeljus	runway centre-line light
 bankantljus	runway edge light
 banljus	runway light
 bansynvidd	runway visual range
-bantrˆskelljus	runway threshold light
-ban‰ndljus	runway end light
+bantr√∂skelljus	runway threshold light
+ban√§ndljus	runway end light
 barett	barrette
 begriplighet	comprehensibility (of a sign)
 belysning	lighting; illumination
-belysningens driftv‰rde	maintained lighting value
+belysningens driftv√§rde	maintained lighting value
 belysningsinstallation	lighting installation
 belysningsstyrka	illuminance (at a point of a surface)
-belysningsstyrkans driftv‰rde	service illuminance (of an area)
-belysningsstyrkans j‰mnhet	illuminance uniformity; uniformity ratio of illuminance (on a given plane)
+belysningsstyrkans driftv√§rde	service illuminance (of an area)
+belysningsstyrkans j√§mnhet	illuminance uniformity; uniformity ratio of illuminance (on a given plane)
 belysningsteknik	illuminating engineering; lighting technolog
 belysningsvektor	illuminance vector (at a point)
 belysningsverkningsgrad	utilization factor; (of an installation, for a reference surface); coefficient of utilization (USA)
-bestrÂlning	irradiation
-Bezold-Br¸cke fenomenet	Bezold-Br¸cke phenomenon
-bibehÂllen belysningsstyrka	maintained illuminance
-bibehÂllen medelbelysningsstyrka	maintained average illuminance (over a surface)
-bibehÂllen medelluminans	maintained average luminance (of a surface)
-bibehÂllningsfaktor	maintenance factor (MF) bibehÂllningsfaktor fˆr rumsytor	room surface maintenance factor (RSMF) bildandet av fotoinducerad katarakt,
-(grÂ starr)	photocataractogenesis
+bestr√•lning	irradiation
+Bezold-Br√ºcke fenomenet	Bezold-Br√ºcke phenomenon
+bibeh√•llen belysningsstyrka	maintained illuminance
+bibeh√•llen medelbelysningsstyrka	maintained average illuminance (over a surface)
+bibeh√•llen medelluminans	maintained average luminance (of a surface)
+bibeh√•llningsfaktor	maintenance factor (MF) bibeh√•llningsfaktor f√∂r rumsytor	room surface maintenance factor (RSMF) bildandet av fotoinducerad katarakt,
+(gr√• starr)	photocataractogenesis
 bildandet av UV-inducerad katarakt
 
-(grÂ starr)	ultraviolet photo-cataractogenesis
+(gr√• starr)	ultraviolet photo-cataractogenesis
 bildelement	element; pixel
 bildelementstorlek	element size
 bildscensrepresentation	scene-referred image state
-bildsk‰rmsomgivning	display surround bildsk‰rmsomgivningens vitpunkt	ambient white point (of a display) bildsk‰rmsvitpunkt	display illuminant white point
-bildsk‰rmsyta	display surface
-bin‰r kulˆrton	binary hue
+bildsk√§rmsomgivning	display surround bildsk√§rmsomgivningens vitpunkt	ambient white point (of a display) bildsk√§rmsvitpunkt	display illuminant white point
+bildsk√§rmsyta	display surface
+bin√§r kul√∂rton	binary hue
 bioluminiscens	bioluminescence
 biorytm	biological rhythm
 blandad reflexion	mixed reflection
@@ -111,31 +104,31 @@ blandljuslampa	blended lamp; selfballasted mercury lamp (USA)
 blinkande varningsljus	flashing conspicuity beacon
 blinkljus	flashing light
 blixtlampa	photoflash lamp
-blÂljusskaderisk	blue light hazard (BLH)
-blÂljusskaderiskirradians	blue light hazard irradiance
-blÂljusskaderiskradians	blue light hazard radiance
-bl‰ndning	glare
+bl√•ljusskaderisk	blue light hazard (BLH)
+bl√•ljusskaderiskirradians	blue light hazard irradiance
+bl√•ljusskaderiskradians	blue light hazard radiance
+bl√§ndning	glare
 boj	buoy
 bolometer	bolometer
 bordslampa	table lamp
 bostad	dwelling
 bostadsgata	residential street
 bostadsmark	residential property
-bostadsomrÂde	residential area
+bostadsomr√•de	residential area
 bottenkontakt	contact plate; eyelet (USA)
-bredstrÂlande ljusarmatur	wide angle luminaire
-bredstrÂlande strÂlkastarbelysning	floodlighting
+bredstr√•lande ljusarmatur	wide angle luminaire
+bredstr√•lande str√•lkastarbelysning	floodlighting
 bromslykta	brake light; stop light
-bromsstr‰cka stopping distance
+bromsstr√§cka stopping distance
 brusekvivalent insignal	noise equivalent input (of a detector)
 brusekvivalent irradians	noise equivalent irradiance (of a detector)
 
-brusekvivalent strÂlningsflˆde	noise equivalent power; NEP (abbreviation) (of a
+brusekvivalent str√•lningsfl√∂de	noise equivalent power; NEP (abbreviation) (of a
 detector)
 brytning	refraction
 brytningsindex	refractive index (of a medium, for a monochromatic radiation of wavelength	in vacuum)
-Bunsen-Roscos (reciprocitets)lag	Bunsen-Roscoe law (reciprocity) bÂglampa	arc lamp
-bÂgurladdning	arc discharge; electric arc
+Bunsen-Roscos (reciprocitets)lag	Bunsen-Roscoe law (reciprocity) b√•glampa	arc lamp
+b√•gurladdning	arc discharge; electric arc
 
 
 C
@@ -144,33 +137,33 @@ candela	candela
 candela per kvadratmeter	candela per square metre (cd m-2)
 centralgropen	fovea centralis
 CIE	CIE
-CIE 1931 standardobservatˆr fˆr kolo-
+CIE 1931 standardobservat√∂r f√∂r kolo-
 rimetri	CIE 1931 standard colorimetric observer
-CIE 1931 standardsystem fˆr kolori-	CIE 1931 standard colorimetric metri (X,Y,Z)		system (X, Y, Z)
-CIE 1964 j‰mnfˆrdelad f‰rgrymd	CIE 1964 uniform colour space CIE 1964 standardobservatˆr fˆr kolo-
+CIE 1931 standardsystem f√∂r kolori-	CIE 1931 standard colorimetric metri (X,Y,Z)		system (X, Y, Z)
+CIE 1964 j√§mnf√∂rdelad f√§rgrymd	CIE 1964 uniform colour space CIE 1964 standardobservat√∂r f√∂r kolo-
 rimetri	CIE 1964 standard colorimetric observer
-CIE 1964 standardsystem fˆr kolorimetri	CIE 1964 standard colorimetric
+CIE 1964 standardsystem f√∂r kolorimetri	CIE 1964 standard colorimetric
 system (X10, Y10, Z10)
-CIE 1974 allm‰nna f‰rgÂtergivningsindex	CIE 1974 general colour rendering
+CIE 1974 allm√§nna f√§rg√•tergivningsindex	CIE 1974 general colour rendering
 index
-CIE 1974 speciella f‰rgÂtergivningsindex	CIE 1974 special colour rendering index
+CIE 1974 speciella f√§rg√•tergivningsindex	CIE 1974 special colour rendering index
 CIE 1976 u', v' kromaticitetsdifferens	CIE 1976 u', v' chromaticity difference CIE 1976 UCS-diagram	CIE 1976 uniform-chromaticity-scale
 diagram; CIE 1976 UCS diagram
-CIE f‰rgmatchningsfunktioner	CIE colour-matching functions
-CIE standard fˆr klar himmel	CIE standard clear sky
-CIE standard fˆr mulen himmel	CIE standard overcast sky
-CIE standard fˆr vanlig himmel	CIE standard general sky
+CIE f√§rgmatchningsfunktioner	CIE colour-matching functions
+CIE standard f√∂r klar himmel	CIE standard clear sky
+CIE standard f√∂r mulen himmel	CIE standard overcast sky
+CIE standard f√∂r vanlig himmel	CIE standard general sky
 CIE standardljus	CIE standard illuminants
-CIE standardljusk‰llor	CIE standard sources
-CIE standardobservatˆr fˆr fotometri	CIE standard photometric observer CIE standardobservatˆr fˆr f‰rg	CIE standard colorometric observer
+CIE standardljusk√§llor	CIE standard sources
+CIE standardobservat√∂r f√∂r fotometri	CIE standard photometric observer CIE standardobservat√∂r f√∂r f√§rg	CIE standard colorometric observer
 
-CIELAB-f‰rgdifferens	CIE 1976 L*a*b* colour difference; CIELAB colour difference
-CIELAB-f‰rgrymd	CIE 1976 L*a*b* colour space; CIELAB colour space
-CIELUV-f‰rgdifferens	CIE 1976 L*u*v* colour difference; CIELUV colour difference
+CIELAB-f√§rgdifferens	CIE 1976 L*a*b* colour difference; CIELAB colour difference
+CIELAB-f√§rgrymd	CIE 1976 L*a*b* colour space; CIELAB colour space
+CIELUV-f√§rgdifferens	CIE 1976 L*u*v* colour difference; CIELUV colour difference
 
-CIELUV-f‰rgrymd	CIE 1976 L*u*v* colour space;
+CIELUV-f√§rgrymd	CIE 1976 L*u*v* colour space;
 CIELUV colour space
-cirkul‰rpolariserad strÂlning	circularly polarized radiation
+cirkul√§rpolariserad str√•lning	circularly polarized radiation
 crossbar	cross bar
 cykelbana	cycle track
 cylindersockel	shell cap; shell base (USA)
@@ -188,16 +181,16 @@ dagsljusfaktorns himmelskomponent	sky component of daylight factor dagsljusfakto
 komponent	internally reflected component of daylight factor
 dagsljusfaktorns utereflekterade
 komponent	externally reflected component of daylight factor
-dagsljusfluorescerande f‰rg	daylight fluorescent colour
+dagsljusfluorescerande f√§rg	daylight fluorescent colour
 dagsljuskurva	daylight locus
 dagsljuslampa	daylight lamp
-dagsljusliknande ljusk‰lla	daylight illuminant; D illuminant
-dagsljusˆppning	daylight opening
-damms‰ker ljusarmatur	dust-proof luminaire
-dammt‰t ljusarmatur	dust-tight luminaire
-defekt blÂseende	tritanomaly
-defekt grˆnseende	deuteranomaly
-defekt rˆdseende	protanomaly
+dagsljusliknande ljusk√§lla	daylight illuminant; D illuminant
+dagsljus√∂ppning	daylight opening
+damms√§ker ljusarmatur	dust-proof luminaire
+dammt√§t ljusarmatur	dust-tight luminaire
+defekt bl√•seende	tritanomaly
+defekt gr√∂nseende	deuteranomaly
+defekt r√∂dseende	protanomaly
 delvis mulen himmel	intermediate sky
 densitet (optisk)	density (optical)
 densitometer	densitometer
@@ -210,7 +203,7 @@ deuteranopi	deuteranopia
 diffrakterat ljus	loom
 diffraktion	diffraction
 diffus belysning	diffused lighting
-diffus himmelsstrÂlning	diffuse sky radiation
+diffus himmelsstr√•lning	diffuse sky radiation
 diffus horisontell belysningsstyrka	diffuse horizontal illuminance (from
 the sky); sky illuminance
 diffus horisontell irradians	diffuse horizontal irradiance
@@ -229,24 +222,24 @@ dimljus	front fog light
 dimmer	dimmer
 direkt belysning	direct lighting
 direkt belysningsstyrka	direct illuminance
-direkt ljusflˆde	direct flux (on a surface)
+direkt ljusfl√∂de	direct flux (on a surface)
 direkt solbelysningsstyrka	direct solar illuminance
 direkt solirradians	direct solar irradiance
-direkt solstrÂlning	direct solar radiation
-direktbl‰ndning	direct glare
+direkt solstr√•lning	direct solar radiation
+direktbl√§ndning	direct glare
 direktljusandel	direct ratio (of an interior lighting installation)
 dispersion	dispersion
-dominerande vÂgl‰ngd	dominant wavelength (of a colour stimulus)
+dominerande v√•gl√§ngd	dominant wavelength (of a colour stimulus)
 
 dos	dose (of optical radiation of specified spectral distribution)
 dosrat	dose rate
 dos-responskurva	dose response curve
 downlight	downlight
-dropps‰ker ljusarmatur	drip-proof luminaire
-dubbelspiral(iserad glˆdtrÂd)	coiled-coil filament
+dropps√§ker ljusarmatur	drip-proof luminaire
+dubbelspiral(iserad gl√∂dtr√•d)	coiled-coil filament
 dunkel	dim
 dygnsrytm	circadian rhythm
-d‰ckbuller	rolling noise
+d√§ckbuller	rolling noise
 
 
 E
@@ -256,43 +249,43 @@ efterlysning	afterglow
 ekvivalent kontrast	equivalent contrast (of a task)
 ekvivalent luminans	equivalent luminance (of a field of given size and shape, for a radiation of arbitrary relative spectral distribution) (Leq)
 ekvivalent neutral densitet	equivalent neutral density ekvivalent neutral luminansfaktor	equivalent neutral luminance factor
-ekvivalent slˆjluminans	equivalent veiling luminance (for disa- bility glare or veiling reflections)
+ekvivalent sl√∂jluminans	equivalent veiling luminance (for disa- bility glare or veiling reflections)
 elektrisk belysning	electric lighting
 elektrisk urladdning	electric discharge (in a gas)
 elektroluminiscens	electroluminescence
-elektroluminiscensljusk‰lla	electroluminescent source
+elektroluminiscensljusk√§lla	electroluminescent source
 elektroluminiscensplatta	electroluminescent panel
 elektroluminiscent lampa	electroluminescent lamp
-elektromagnetisk strÂlning	electromagnetic radiation
-elektromekanisk matrissk‰rm	electromechanical matrix variable message sign
+elektromagnetisk str√•lning	electromagnetic radiation
+elektromekanisk matrissk√§rm	electromechanical matrix variable message sign
 elektronblixt	electronic flash lamp; flash tube
-elektroniskt fˆrkopplingsdon	semiconductor ballast
-elektronstrÂleluminiscens	cathode-luminescence
-elektrooptisk omvandlingsfunktion	electro-optical conversion function (EOCF) elementarkulˆrton	unitary hue; unique hue
+elektroniskt f√∂rkopplingsdon	semiconductor ballast
+elektronstr√•leluminiscens	cathode-luminescence
+elektrooptisk omvandlingsfunktion	electro-optical conversion function (EOCF) elementarkul√∂rton	unitary hue; unique hue
 
-elliptiskt polariserad strÂlning	elliptically polarized radiation
+elliptiskt polariserad str√•lning	elliptically polarized radiation
 emission	emission (of radiation)
 emissionsmaterial	emissive material
 emissionsspektrum	emission spectrum (luminescence)
 emissivitet	emissivity (hemispherical) ( ; h)
 emitter	emitter
-energinivÂ	energy level
-enkelspiral(iserad glˆdtrÂd)	single-coil filament
+energiniv√•	energy level
+enkelspiral(iserad gl√∂dtr√•d)	single-coil filament
 ensfyrar	leading lights
-ensm‰rken	leading marks
+ensm√§rken	leading marks
 erytemdos	erythemal radiant exposure; erythemal dose (Her)
-erytemframkallande strÂlning	erythemal radiation
+erytemframkallande str√•lning	erythemal radiation
 erytemirradians	erythemal irradiance
 etikett	label
 excitationsspektrum	excitation spectrum (for a monochromatic component of specified wavelength 
 of the emitted radiation)
 excitering	excitation
-exponeringsavstÂnd	exposure distance
-exponeringsgr‰ns	exposure limit (EL)
-exponeringsm‰tare	exposure meter
+exponeringsavst√•nd	exposure distance
+exponeringsgr√§ns	exposure limit (EL)
+exponeringsm√§tare	exposure meter
 exponeringstid	exposure duration; duration of exposure (texp)
 extraterrester solbelysningsstyrka	extraterrestrial solar illuminance [Ev]
-extraterrester solstrÂlning	extraterrestrial solar irradiance [Ee]
+extraterrester solstr√•lning	extraterrestrial solar irradiance [Ee]
 
 
 F
@@ -304,20 +297,20 @@ flimmer	flicker
 flimmerfaktor	amplitude of fluctuation of the luminous flux
 flimmerfotometer	flicker photometer
 flimmerindex	flicker index
-"flodljus"-strÂlkastare	floodlight
+"flodljus"-str√•lkastare	floodlight
 
-"flodljus"-strÂlkastarinstallation	floodlighting installation
+"flodljus"-str√•lkastarinstallation	floodlighting installation
 flotte	float
 fluorescens	fluorescence
 fluorescerande material	fluorescent material
 fluorescerande skylt	fluorescent sign
 flygplatsfyr	aerodrome beacon
-flytandekristallsk‰rm	liquid crystal dispaly; LCD
+flytandekristallsk√§rm	liquid crystal dispaly; LCD
 flyttbar gruvarmatur	portable mine luminaire
 flyttbar ljusarmatur	portable luminaire
 footcandle	footcandle
 footlambert	footlambert (fL)
-fordonsstrÂlkastare	headlamp; headlight
+fordonsstr√•lkastare	headlamp; headlight
 formfaktor	form factor; configuration factor
 (between two surfaces S1 and S2) [f]
 fosforescens	phosphorescence
@@ -334,23 +327,23 @@ fotodynamisk terapi	photodynamic therapy
 fotoeffekt	photoeffect
 fotoelektrisk detektor	photoelectric detector
 fotoelektromotorisk cell	photoelement; photovoltaic cell
-fotoh‰rdning	photocuring
+fotoh√§rdning	photocuring
 fotoimmunologi	photoimmunology
 fotoinducerad cancer	photocarcinogenesis
 fotokatod	photocathode
-fotokemiskt inducerad cancer	photochemical carcinogenesis fotokeratit (snˆblindhet, svetsbl‰nk)	photokeratoconjunctivitis fotokonduktiv cell	photoconductive cell
+fotokemiskt inducerad cancer	photochemical carcinogenesis fotokeratit (sn√∂blindhet, svetsbl√§nk)	photokeratoconjunctivitis fotokonduktiv cell	photoconductive cell
 fotolampa	photoflood lamp
 
 fotolavindiod	avalanche photodiode
 fotoluminiscens	photoluminescence
 fotoluminiscent fotonutbyte	photoluminescence quantum yield
-fotoluminiscent material	photoluminescent material fotoluminiscent strÂlningsutbyte	photoluminescence radiant yield fotomakulopati	photic maculopathy
+fotoluminiscent material	photoluminescent material fotoluminiscent str√•lningsutbyte	photoluminescence radiant yield fotomakulopati	photic maculopathy
 fotometer	photometer
 fotometerklot	photometer sphere; integrating sphere
 fotometri	photometry
 fotometrisk arbetsnormal	working photometric standard
-fotometrisk prim‰rnormal	primary photometric standard
-fotometrisk sekund‰rnormal	secondary photometric standard
+fotometrisk prim√§rnormal	primary photometric standard
+fotometrisk sekund√§rnormal	secondary photometric standard
 fotomorfogenes	photomorphogenesis
 fotomultiplikator	photomultiplier
 fotomutagenes	photomutagenesis
@@ -359,13 +352,13 @@ fotonantal	number of photons; photon number
 fotondetektor	photon detector
 fotonexitans	photon exitance (at a point of a surface)
 fotonexponering	photon exposure (at a point of a surface, for a given duration) (Hp; H)
-fotonflˆde	photon flux; photon fluence (
-fotonflˆdeshastighet	photon fluence rate (at a point)
+fotonfl√∂de	photon flux; photon fluence (
+fotonfl√∂deshastighet	photon fluence rate (at a point)
 fotonintensitet	photon intensity (of a source, in a given direction) (Ip; I)
 fotonirradians	photon irradiance (at a point of a surface) (Ep; E)
 fotonradians	photon radiance (in a given direction, at a given point of a real or imaginary surface) (Lp; L)
-fotonr‰knare	photon counter
-fotonstrÂlningsdos	photon radiance dose
+fotonr√§knare	photon counter
+fotonstr√•lningsdos	photon radiance dose
 fotopatologi	photopathology
 fotoperiod	photoperiod
 fotoperiodism	photoperiodism
@@ -374,191 +367,191 @@ fotoresistor	photoresistor
 
 fotoretinit	photoretinitis
 fotosensibilisering	photosensitization
-fotostrˆm	photocurrent (Iph)
+fotostr√∂m	photocurrent (Iph)
 fotosyntes	photosynthesis
-fotosyntetiskt aktiv strÂlning	photosynthetically active radiation; PAR
+fotosyntetiskt aktiv str√•lning	photosynthetically active radiation; PAR
 fototaxis	phototaxis
 fototerapi	phototherapy
 fototransistor	phototransistor
 fototropism	phototropism
 fovea	fovea
 foveola	foveola
-frekvensgr‰ns fˆr flimmer	fusion frequency
-Fresnel-strÂlkastare	Fresnel spotlight
-frontstrÂlkastare	face luminaire
-fr‰mre positionslykta	front position light
+frekvensgr√§ns f√∂r flimmer	fusion frequency
+Fresnel-str√•lkastare	Fresnel spotlight
+frontstr√•lkastare	face luminaire
+fr√§mre positionslykta	front position light
 fyr	beacon
 fyr(byggnad)	lighthouse
 fyrskepp	lightship; light vessel
 fysikalisk fotometri	physical photometry
 fysikalisk kolorimetri	physical colorimetry
-f‰ltf‰rg	aperture colour; field colour
-f‰rg	colour; color (USA)
-f‰rgad kolv	coloured bulb
-f‰rgadaptation	chromatic adaptation
-f‰rgatlas	colour atlas
-f‰rgbehandling	colour management
-f‰rgbildsdata	colour image data
-f‰rgbildskodning	colour image encoding
-f‰rgekvation	colour equation
-f‰rgelement	colour element
-f‰rgfilter	colour filter
-f‰rggr‰nser	colour boundaries
-f‰rgkodning	colour encoding
-f‰rgkropp	colour solid
-f‰rgmatchning	colour matching
-f‰rgmatchningsfunktioner	colour-matching functions
+f√§ltf√§rg	aperture colour; field colour
+f√§rg	colour; color (USA)
+f√§rgad kolv	coloured bulb
+f√§rgadaptation	chromatic adaptation
+f√§rgatlas	colour atlas
+f√§rgbehandling	colour management
+f√§rgbildsdata	colour image data
+f√§rgbildskodning	colour image encoding
+f√§rgekvation	colour equation
+f√§rgelement	colour element
+f√§rgfilter	colour filter
+f√§rggr√§nser	colour boundaries
+f√§rgkodning	colour encoding
+f√§rgkropp	colour solid
+f√§rgmatchning	colour matching
+f√§rgmatchningsfunktioner	colour-matching functions
 
-f‰rgmatchningskoefficienter	colour-matching coefficients
-f‰rgomfÂng	colour gamut
-f‰rgomfÂngsgr‰ns	colour gamut boundary
-f‰rgprov	test area colour patch
-f‰rgreproduktionsmedium	colour reproduction medium
-f‰rgrymd	colour space
-f‰rgrymdskodning	colour space encoding
-f‰rgrymdsvitpunkt	colour space white point
-f‰rgskillnad	colour difference
-f‰rgstimulus	colour stimulus
-f‰rgstimulusrenhet	purity (of a colour stimulus)
-f‰rgsystem	colour order system
-f‰rgtemperatur	colour temperature (Tc)
-f‰rgutseende	colour appearance
-f‰rgutseendemodell	colour appearance model
-f‰rgÂtergivning	colour rendering
-f‰rgÂtergivningsindex	colour rendering index
-f‰rg‰mne	colorant
-fˆnster	window
-fˆrdelningstemperatur	distribution temperature (TD) (of a source in a given wavelength range)
-fˆremÂlsf‰rg	object colour
-fˆrklaring	legend
-fˆrkopplingsdon	ballast
-fˆrspeglad kolv	reflectorized bulb
-fˆrst‰rkningstal	magnification ratio (of a luminaire)
+f√§rgmatchningskoefficienter	colour-matching coefficients
+f√§rgomf√•ng	colour gamut
+f√§rgomf√•ngsgr√§ns	colour gamut boundary
+f√§rgprov	test area colour patch
+f√§rgreproduktionsmedium	colour reproduction medium
+f√§rgrymd	colour space
+f√§rgrymdskodning	colour space encoding
+f√§rgrymdsvitpunkt	colour space white point
+f√§rgskillnad	colour difference
+f√§rgstimulus	colour stimulus
+f√§rgstimulusrenhet	purity (of a colour stimulus)
+f√§rgsystem	colour order system
+f√§rgtemperatur	colour temperature (Tc)
+f√§rgutseende	colour appearance
+f√§rgutseendemodell	colour appearance model
+f√§rg√•tergivning	colour rendering
+f√§rg√•tergivningsindex	colour rendering index
+f√§rg√§mne	colorant
+f√∂nster	window
+f√∂rdelningstemperatur	distribution temperature (TD) (of a source in a given wavelength range)
+f√∂rem√•lsf√§rg	object colour
+f√∂rklaring	legend
+f√∂rkopplingsdon	ballast
+f√∂rspeglad kolv	reflectorized bulb
+f√∂rst√§rkningstal	magnification ratio (of a luminaire)
 
 G
 gasfylld lampa	gas-filled (incandescent) lamp
 gasindikeringslampa	mine safety lamp
 gasurladdningslampa	gaseous discharge lamp
 gata	street
-gemen x-hˆjd	"x"-height
+gemen x-h√∂jd	"x"-height
 genomlyst skylt	transilluminated display
-geografisk siktstr‰cka	geographical range; geographic range (USA)
+geografisk siktstr√§cka	geographical range; geographic range (USA)
 geometrisk omfattning	geometric extent (of a beam of rays) [G]
 
 glans	gloss (of a surface)
-glansm‰tare	glossmeter
+glansm√§tare	glossmeter
 glimlampa	negative-glow lamp
 glimurladdning	glow discharge
 global horisontell belysningsstyrka	global horizontal illuminance [Evg]
 global horisontell irradians	global horizontal irradiance [Eeg]
-globalstrÂlning	global solar radiation
+globalstr√•lning	global solar radiation
 globalt UV-index	global UV index
-glˆdlampa	incandescent (electric) lamp
-glˆdtrÂd	filament
-golvhÂlrumsindex	floor cavity index; floor cavity ratio (USA)
+gl√∂dlampa	incandescent (electric) lamp
+gl√∂dtr√•d	filament
+golvh√•lrumsindex	floor cavity index; floor cavity ratio (USA)
 golvlampa	standard lamp; floor lamp (USA)
 goniofotometer	goniophotometer
 gonioradiometer	gonioradiometer
 grafikdata	colour content data
 Grassmans lagar	Grassmann's laws
-grundl‰ggande fotonradians	basic photon radiance
-grundl‰ggande f‰rgnamn	basic colour names
-grundl‰ggande radians	basic radians
-grundl‰ggande radio-och fotometrilagen	basic law of radiometry and photometry gruvarmatur	mine luminaire
-gruvarmatur i egens‰kert utfˆrande	intrinsically safe luminaire gruvgÂngsarmatur	haulageway luminaire
-grÂ kropp	grey body; gray body (USA)
-grÂ starr	photocataractogenesis
-grÂfilter	grey filter
-gr‰nslinje	border
-gula fl‰cken	yellow spot; macula lutea
-gÂngbana	sidewalk; pavement
+grundl√§ggande fotonradians	basic photon radiance
+grundl√§ggande f√§rgnamn	basic colour names
+grundl√§ggande radians	basic radians
+grundl√§ggande radio-och fotometrilagen	basic law of radiometry and photometry gruvarmatur	mine luminaire
+gruvarmatur i egens√§kert utf√∂rande	intrinsically safe luminaire gruvg√•ngsarmatur	haulageway luminaire
+gr√• kropp	grey body; gray body (USA)
+gr√• starr	photocataractogenesis
+gr√•filter	grey filter
+gr√§nslinje	border
+gula fl√§cken	yellow spot; macula lutea
+g√•ngbana	sidewalk; pavement
 
 H
-halogenglˆdlampa	iodine lamp; tungsten halogen lamp halvcylindrisk belysningsstyrka	semi-cylindrical illuminance (at a point)
+halogengl√∂dlampa	iodine lamp; tungsten halogen lamp halvcylindrisk belysningsstyrka	semi-cylindrical illuminance (at a point)
 halvljus	dipped-beam headlight; low-beam headlight; passing-beam headlight
 
-halvv‰rdesspridning	half-peak divergence (of a projector, in a specified plane); one-half-peak spread (USA)
-halvv‰rdesvinkel	half-value angle (for a diffusing surface by reflection or by transmission) (
+halvv√§rdesspridning	half-peak divergence (of a projector, in a specified plane); one-half-peak spread (USA)
+halvv√§rdesvinkel	half-value angle (for a diffusing surface by reflection or by transmission) (
 handlampa	hand-lamp; trouble lamp (USA)
 helioterapi	heliotherapy
 helljus	main-beam headlight; high-beam headlight; driving-beam headlight
 Helmholtz-Kohlrauschs fenomen	Helmholtz-Kohlrausch phenomenon himmelsfaktor	sky factor
 himmelsljus	skylight
 himmelsluminans	sky luminance [Lv]
-himmelsstrˆljus	sky glow
+himmelsstr√∂ljus	sky glow
 hinder	obstruction
 hinderljus	obstacle light; obstruction light
 hissarmatur	rise and fall pendant
-homogen f‰rgrymd	uniform colour space
+homogen f√§rgrymd	uniform colour space
 horisontell belysningsstyrka	horizontal illuminance (Eh)
 huvudelektrod	main electrode
 huvudled	major road; trunk-road
 huvudplan	principal plane (of the luminaire light distribution)
 
-huvudv‰g	major road; trunk road
-hÂrdglaskolv	hard-glass bulb
-h‰ngarmatur	pendant luminaire; suspended luminaire (USA)
-hˆgtryckslampa	high intensity discharge lamp; HID lamp
-hˆgtrycksnatriumlampa	high pressure sodium (vapour) lamp
+huvudv√§g	major road; trunk road
+h√•rdglaskolv	hard-glass bulb
+h√§ngarmatur	pendant luminaire; suspended luminaire (USA)
+h√∂gtryckslampa	high intensity discharge lamp; HID lamp
+h√∂gtrycksnatriumlampa	high pressure sodium (vapour) lamp
 
 
 I
 ICC filformat	ICC file format
 ICC profil format	ICC profile format
-ickelysande f‰rg	non-luminous colour
-ickepolariserad strÂlning	unpolarized radiation
+ickelysande f√§rg	non-luminous colour
+ickepolariserad str√•lning	unpolarized radiation
 ickeselektiv detektor	non-selective detector (of optical radiation)
 ickeselektiv diffusion	non-selective diffusion
 ickeselektiv kvantumdetektor	non-selective quantum detector
-ickeselektiv strÂlare	non-selective radiator
+ickeselektiv str√•lare	non-selective radiator
 
 ickeselektivt filter	non-selective filter
 identifikationsfyr	identification beacon
 indirekt aktinisk efekt	indirect actinic effect
 indirekt belysning	indirect lighting
 indirekt belysningsstyrka	indirect illuminance
-indirekt ljusflˆde	indirect flux (on a surface)
+indirekt ljusfl√∂de	indirect flux (on a surface)
 induktionslampa	induction luminaire
 infallsvinkel	angle of incidence; entrance angle (of a retroreflector) (
 inflygningsljus	approach lighting system
-inflˆdesgeometri	irradiation or influx or incidence geometry
-infrarˆdstrÂlning	infrared radiation; IR-radiation
-inf‰lld ljusarmatur	recessed luminaire
+infl√∂desgeometri	irradiation or influx or incidence geometry
+infrar√∂dstr√•lning	infrared radiation; IR-radiation
+inf√§lld ljusarmatur	recessed luminaire
 innerbelagd (ytterbelagd) kolv	coated bulb
 innerzonsluminans (i tunnel)	interior zone luminance
 inre kvantverkningsgrad	internal quantum efficiency (of a detector) (?i)
 inre zon (i en tunnel)	interior zone (of a tunnel)
 insignal	input (for a detector of optical radiation)
-installerat armaturljusflˆde per m2	installation flux density installerat lampljusflˆde per m2	installed lamp flux density (for an
+installerat armaturljusfl√∂de per m2	installation flux density installerat lampljusfl√∂de per m2	installed lamp flux density (for an
 interior lighting)
 integrerande fotometer	integrating photometer
-integrerande sf‰r	integrating sphere
+integrerande sf√§r	integrating sphere
 interferens	interference
 intermittent ljus	occulting light
-Internationella kommissionen fˆr skydd
-mot icke-joniserande strÂlning	ICNIRP
+Internationella kommissionen f√∂r skydd
+mot icke-joniserande str√•lning	ICNIRP
 interreflexion	interreflection
-interreflexionsfˆrhÂllande	interreflection ratio
-invarianta vÂgl‰ngder	invariant wavelenghts
+interreflexionsf√∂rh√•llande	interreflection ratio
+invarianta v√•gl√§ngder	invariant wavelenghts
 IR-A,B,C	IR-A, B, C
 IR-lampa	infrared lamp
-IR-strÂlning	IR-radiation; infrared radiation
+IR-str√•lning	IR-radiation; infrared radiation
 irradians	irradiance (at a point of a surface) (Ee; E)
-ISO-standard fˆr dynamiskt omrÂde
+ISO-standard f√∂r dynamiskt omr√•de
 
-fˆr digital stillbildskamera	ISO digital still camera dynamic range
+f√∂r digital stillbildskamera	ISO digital still camera dynamic range
 isocandeladiagram	iso-intensity diagram
 isocandelakurva	iso-intensity curve (of a source);
 iso-intensity line (USA)
 isoenergetiskt spektrum	equi-energy spectrum ; equalenergy spectrum (USA)
 isoluminanskurva	isoluminance curve
 isoluxkurva	iso-illuminance curve; iso-illuminance line (USA)
-isotrop punktk‰lla	uniform point source
+isotrop punktk√§lla	uniform point source
 
 
 J
-j‰mn himmel	uniform sky
-j‰mnfˆrdelat kromaticitetsdiagram	uniform-chromaticity-scale diagram;
+j√§mn himmel	uniform sky
+j√§mnf√∂rdelat kromaticitetsdiagram	uniform-chromaticity-scale diagram;
 UCS diagram
 
 
@@ -569,61 +562,61 @@ kantmarkering	delineation
 kantstolpe	delineator
 kapslad ljusarmatur	protected luminaire
 kardinalfyr	cardinal light
-kardinalm‰rke	cardinal mark
+kardinalm√§rke	cardinal mark
 kassettarmatur	coffer
 katodfall	cathode drop; cathode fall
 kemisk luminiscens	chemiluminescence
 klar kolv	clear bulb
 klippljus	isophase light
-koherent strÂlning	coherent radiation
+koherent str√•lning	coherent radiation
 kollisionsvarningsljus	anti-collision light
 kolorimeter	colorimeter
 kolorimetri	colorimetry
-kolorimetrisk f‰rgrymd	colorimetric colour space
+kolorimetrisk f√§rgrymd	colorimetric colour space
 kolorimetrisk renhet	colorimetric purity [pc]
 kolorimetriskt neutral	colorimetric neutral
-koltrÂdslampa	carbon filament lamp
+koltr√•dslampa	carbon filament lamp
 
 kolv	bulb
-komplementvÂgl‰ngd	complementary wavelength
+komplementv√•gl√§ngd	complementary wavelength
 (of a colour stimulus) (?c)
-komplement‰ra f‰rgstimuli	complementary colour stimuli
-komplext brytningsindex	complex refractive index (of an absor- bing, isotropic material) [ nà ( )]
+komplement√§ra f√§rgstimuli	complementary colour stimuli
+komplext brytningsindex	complex refractive index (of an absor- bing, isotropic material) [ n¬à ( )]
 kon	bollard
 kon med/utan belysning	traffic bollard
 kontrast	contrast
-kontrastfˆrhÂllande	contrast ratio (of a sign face)
-kontrastk‰nslighet	contrast sensitivity (Sc)
+kontrastf√∂rh√•llande	contrast ratio (of a sign face)
+kontrastk√§nslighet	contrast sensitivity (Sc)
 kontraststyrsystem	contrast control system
-kontrastÂtergivningsfaktor	contrast rendering factor (of a lighting system, for a task)
-kontrastÂtergivningskoefficient	contrast revealing coefficient konventionell retinal belysning	conventionmal retibnal illuminance kornischbelysning	valance lighting; pelmet lighting
-korrektionsfaktor fˆr dÂlig spektral
+kontrast√•tergivningsfaktor	contrast rendering factor (of a lighting system, for a task)
+kontrast√•tergivningskoefficient	contrast revealing coefficient konventionell retinal belysning	conventionmal retibnal illuminance kornischbelysning	valance lighting; pelmet lighting
+korrektionsfaktor f√∂r d√•lig spektral
 matchning	spectral mismatch correction factor
-korrelerad f‰rgtemperatur	correlated colour temperature (Tcp)
-korresponderande f‰rgreprodutions-
+korrelerad f√§rgtemperatur	correlated colour temperature (Tcp)
+korresponderande f√§rgreprodutions-
 modell	corresponding colour reproduction model
-korresponderande f‰rgstimuli	corresponding colour stimuli
-kortbÂgslampa	short-arc lamp; compact source arc discharge lamp
+korresponderande f√§rgstimuli	corresponding colour stimuli
+kortb√•gslampa	short-arc lamp; compact source arc discharge lamp
 Koschmieders lag	Koschmieder's law
-kritisk exponering av UV-strÂlning	ultraviolet hazard radiant exposure kritisk flimmerfrekvens	critical flicker frequency
-kritisk irradians fˆr UV	ultraviolet hazard irradiance
-kritiskt avstÂnd fˆr hudskada	skin hazard distance
+kritisk exponering av UV-str√•lning	ultraviolet hazard radiant exposure kritisk flimmerfrekvens	critical flicker frequency
+kritisk irradians f√∂r UV	ultraviolet hazard irradiance
+kritiskt avst√•nd f√∂r hudskada	skin hazard distance
 kromaticitet	chromaticity
 kromaticitetsdiagram	chromaticity diagram
 kromaticitetskoordinater	chromaticity coordinates
 kromatisk adaptation	chromatic adaptation
 kromatisk induktion	chromatic induction
 kromatisk stimulus	chromatic stimulus
-kulˆrt f‰rg	chromatic colour
-kulˆrthet	colourfulness; chroma
+kul√∂rt f√§rg	chromatic colour
+kul√∂rthet	colourfulness; chroma
 
-kulˆrton	hue
-kvantr‰knare	quantum counter
+kul√∂rton	hue
+kvantr√§knare	quantum counter
 kvantumdetektor (icke-selektiv)	(non-selective) quantum detector kvantverkningsgrad	quantum efficiency (of a detector) (?)
-kvicksilverlampa	fluorescent mercury discharge lamp kvicksilverlampa (av hˆgtryckstyp)	high pressure mercury (vapour) lamp k‰nslighet	sensitivity
-k‰nslighet (hos en detektor)	responsivity (of a detector) [s]
-kˆrbanans luminansj‰mnhet	overall uniformity of road luminance kˆrbanans medelbelysningsstyrka	average illuminance of the carriageway kˆrf‰lt	traffic lane
-kˆrriktningsvisare	direction-indicator light; turn-signal light (USA)
+kvicksilverlampa	fluorescent mercury discharge lamp kvicksilverlampa (av h√∂gtryckstyp)	high pressure mercury (vapour) lamp k√§nslighet	sensitivity
+k√§nslighet (hos en detektor)	responsivity (of a detector) [s]
+k√∂rbanans luminansj√§mnhet	overall uniformity of road luminance k√∂rbanans medelbelysningsstyrka	average illuminance of the carriageway k√∂rf√§lt	traffic lane
+k√∂rriktningsvisare	direction-indicator light; turn-signal light (USA)
 
 
 L
@@ -632,55 +625,55 @@ lambert	lambert
 Lamberts (cosinus)lag	Lambert's (cosine) law
 lambertyta	lambertian surface
 lampanslutning	connector
-lamphÂllare	holder; lampholder; socket
+lamph√•llare	holder; lampholder; socket
 lampkupa	globe
-lampskÂl	bowl
-lampsk‰rm	shade
-lampsp‰nning	lamp voltage
+lampsk√•l	bowl
+lampsk√§rm	shade
+lampsp√§nning	lamp voltage
 landningsljus	landing light
 lanterna	navigation (vessel) light
 laser	laser
 lateralfyr	lateral light
-lateralm‰rke	lateral mark
-LCD (flytandekristallsk‰rm)	liquid crystal dispaly; LCD
-LCD-bildsk‰rm	LCD display
+lateralm√§rke	lateral mark
+LCD (flytandekristallsk√§rm)	liquid crystal dispaly; LCD
+LCD-bildsk√§rm	LCD display
 LED	light emitting diod; LED
-likafˆrdelad belysning	general diffused lighting
+likaf√∂rdelad belysning	general diffused lighting
 likformigt diffus reflexion	isotropic diffuse reflection
 likformigt diffus transmission	isotropic diffuse transmission
 
-linj‰r detektor	linear detector
-linj‰rpolariserad strÂlning	linearly polarized radiation
-linsstrÂlkastare	lens spotlight
-livsl‰ngd (fˆr en ljusk‰lla)	life (of a lamp)
-livsl‰ngd till X% bortfall	life to X% failures
-livsl‰ngdsprovning	life test
+linj√§r detektor	linear detector
+linj√§rpolariserad str√•lning	linearly polarized radiation
+linsstr√•lkastare	lens spotlight
+livsl√§ngd (f√∂r en ljusk√§lla)	life (of a lamp)
+livsl√§ngd till X% bortfall	life to X% failures
+livsl√§ngdsprovning	life test
 ljus adj	bright
 ljus subst	light
 ljusarmatur	luminaire; lighting fitting ljusarmatur i explosionsskyddat
-utfˆrande	flameproof luminaire ; explosionproof luminaire (USA)
-ljusarmatur i normalutfˆrande	ordinary luminaire
-ljusarmaturens bibehÂllningsfaktor	luminaire maintenance factor; LMF ljusavsk‰rmning	spill shield; louvre; louver (USA)
-ljusbetingad f‰rgfˆr‰ndring	illuminant colour shift ljusbetingad kolorimetrisk fˆr‰ndring	illuminant colorimetric shift ljusekvivalent (fˆr strÂlning)	luminous efficacy (of radiation) (K)
+utf√∂rande	flameproof luminaire ; explosionproof luminaire (USA)
+ljusarmatur i normalutf√∂rande	ordinary luminaire
+ljusarmaturens bibeh√•llningsfaktor	luminaire maintenance factor; LMF ljusavsk√§rmning	spill shield; louvre; louver (USA)
+ljusbetingad f√§rgf√∂r√§ndring	illuminant colour shift ljusbetingad kolorimetrisk f√∂r√§ndring	illuminant colorimetric shift ljusekvivalent (f√∂r str√•lning)	luminous efficacy (of radiation) (K)
 
 ljusexitans	luminous exitance (at a point of a surface) (Mv; M)
 ljusexponering	luminous exposure (at a point of a surface, for a given duration) (Hv; H); light exposure
-ljusflˆde	luminous flux
-ljusflˆdesfaktor fˆr fˆrkopplingsdon	ballast lumen factor (BLF) ljusflˆdesfaktor - nˆdljusdrift	ememrgency mode ballast lumen factor
-ljusf‰rg	illumination colour
-ljusfˆrdelning	(spatial) distribution of luminous intensity (of a source)
-ljusfˆrdelningskurva	distribution curve (of luminous intensity)
-ljusfˆrorening	light pollution
+ljusfl√∂de	luminous flux
+ljusfl√∂desfaktor f√∂r f√∂rkopplingsdon	ballast lumen factor (BLF) ljusfl√∂desfaktor - n√∂dljusdrift	ememrgency mode ballast lumen factor
+ljusf√§rg	illumination colour
+ljusf√∂rdelning	(spatial) distribution of luminous intensity (of a source)
+ljusf√∂rdelningskurva	distribution curve (of luminous intensity)
+ljusf√∂rorening	light pollution
 ljushet	brightness; lightness (of a related colour)
-ljuskarakt‰r	character; characteristic
+ljuskarakt√§r	character; characteristic
 ljuskedja	lighting chain; lighting string (USA)
-ljusk‰lla	lamp
-ljusk‰llans bibehÂllningsfaktor	lamp lumen maintenance faktor (LLMF) ljusk‰llans mortalitetsfaktor	lamp survival factor (LSF)
-ljusk‰llecentrum	light centre (of a source)
+ljusk√§lla	lamp
+ljusk√§llans bibeh√•llningsfaktor	lamp lumen maintenance faktor (LLMF) ljusk√§llans mortalitetsfaktor	lamp survival factor (LSF)
+ljusk√§llecentrum	light centre (of a source)
 ljuslinje	barrette
-ljusmiljˆ	luminous environment
-ljusm‰ngd	luminous energy; quantity of light
-ljusnedgÂngsfaktor	depreciation factor
+ljusmilj√∂	luminous environment
+ljusm√§ngd	luminous energy; quantity of light
+ljusnedg√•ngsfaktor	depreciation factor
 ljussolarkonstant	luminous solar constant [Evo]
 ljusstyrka	luminous intensity (of a source, in a given direction) (Iv; I)
 ljusstyrkekoefficient	coefficient of luminous intensity
@@ -692,7 +685,7 @@ ljustub med flerskiktsreflexion	multi-layer light guide
 ljustub med linser	lens light guide
 ljusturbiditetsfaktor	luminous turbidity factor
 ljus(typ)	illuminant
-ljusutbyte (hos ljusk‰lla)	luminous efficacy (of a source) 
+ljusutbyte (hos ljusk√§lla)	luminous efficacy (of a source) 
 ljusverkningsgrad	luminous efficiency (of radiation)
 
 lokal styrning (av skylt)	local control
@@ -704,38 +697,38 @@ luminans	luminance (in a given direction, at a given point of a real or imaginar
 luminansdos	luminance dose
 luminansfaktor	luminance factor,	(at a surface of a non-self-
 radiating medium in a given direction, under specified conditions of illumination)
-luminansfˆrhÂllande	luminance ratio
-luminansj‰mnhet	luminance uniformity (Uo)
+luminansf√∂rh√•llande	luminance ratio
+luminansj√§mnhet	luminance uniformity (Uo)
 luminanskoefficient	luminance coefficient (at a surface element of a medium, in a given direction, under specified conditions of illumination) [qv; q]
-luminanskoefficient fˆr diffus belysning	luminance coefficient in diffuse illumination luminanskontrast	luminance contrast ratio
-luminanslikformighet l‰ngs v‰gbanan	longitudinal uniformity of road surface
+luminanskoefficient f√∂r diffus belysning	luminance coefficient in diffuse illumination luminanskontrast	luminance contrast ratio
+luminanslikformighet l√§ngs v√§gbanan	longitudinal uniformity of road surface
 luminance
 luminansmeter	luminance meter
-luminansskillnadstrˆskel	luminance difference threshold (?L)
-luminanstrˆskel	luminance threshold
+luminansskillnadstr√∂skel	luminance difference threshold (?L)
+luminanstr√∂skel	luminance threshold
 luminiscens	luminescence
-lutningsvinkel vid anv‰ndning	tilt in application (of a luminaire)
-lutningsvinkel vid m‰tning	tilt during measurement (of a luminaire)
+lutningsvinkel vid anv√§ndning	tilt in application (of a luminaire)
+lutningsvinkel vid m√§tning	tilt during measurement (of a luminaire)
 lux	lux
 luxmeter	illuminance meter
 lysboj	lighted buoy
 lysdiod; LED	light emitting diode; LED
 lysflotte	float light
-lysf‰rg	luminous colour
-lysf‰rg (uppfattad)	illuminant mode (of colour appearance)
+lysf√§rg	luminous colour
+lysf√§rg (uppfattad)	illuminant mode (of colour appearance)
 lyskropp	luminous element
-lysrˆr	fluorescent lamp; fluorescent tube
-lysrˆr fˆr t‰ndarkoppling	switch-start fluorescent lamp
-lysrˆr fˆr t‰ndarlˆs koppling	starterless fluorescent lamp
-lysrˆr med fˆrv‰rmd katod	hot start lamp; preheat lamp
+lysr√∂r	fluorescent lamp; fluorescent tube
+lysr√∂r f√∂r t√§ndarkoppling	switch-start fluorescent lamp
+lysr√∂r f√∂r t√§ndarl√∂s koppling	starterless fluorescent lamp
+lysr√∂r med f√∂rv√§rmd katod	hot start lamp; preheat lamp
 
 lysvidd	luminous range
-lys‰mne	luminophor; phosphor; fluorophor
-lÂgtryckskvicksilverlampa	low pressure mercury (vapour) lamp
-lÂgtrycksnatriumlampa	low pressure sodium (vapour) lamp
-lÂngbÂgslampa	long-arc lamp
-l‰ngsriktning longitudinal direction
-l‰sbarhet	legibility (of a sign); readability
+lys√§mne	luminophor; phosphor; fluorophor
+l√•gtryckskvicksilverlampa	low pressure mercury (vapour) lamp
+l√•gtrycksnatriumlampa	low pressure sodium (vapour) lamp
+l√•ngb√•gslampa	long-arc lamp
+l√§ngsriktning longitudinal direction
+l√§sbarhet	legibility (of a sign); readability
 
 
 M
@@ -744,22 +737,22 @@ markeringskon	marker post
 markeringslykta	outline marker light
 markeringsstolpe	marker post
 markljus	aeronautical ground light
-materialkulˆr	inherent colour
+materialkul√∂r	inherent colour
 matrisskylt	sign matrix
 matterad kolv	frosted bulb
-maximalt bl‰ndtal	glare rating limit medelbelysningsstyrkans nyv‰rde	initial average illuminance (over a surface) medellivsl‰ngd	average life
+maximalt bl√§ndtal	glare rating limit medelbelysningsstyrkans nyv√§rde	initial average illuminance (over a surface) medellivsl√§ngd	average life
 medelluminans	average luminance (of a surface)
-medelluminans tv‰rs v‰gen (i en speci-
+medelluminans tv√§rs v√§gen (i en speci-
 ell del av tunnel)	transition zone luminance (at a particular location)
-medelluminansens nyv‰rde	initial average luminance (of a surface)
+medelluminansens nyv√§rde	initial average luminance (of a surface)
 medljusbelysning	pro-beam lighting
 melatonin (hormon)	melatonin hormone
 mesopiskt seende	mesopic vision
 metall-ljustub	metal light guide
 metallgasurladdningslampa	metal vapour lamp
 metallhalogenlampa	metal halide lamp
-metalltrÂdslampa	metal filament lamp
-metamera f‰rgstimuli	metameric colour stimuli
+metalltr√•dslampa	metal filament lamp
+metamera f√§rgstimuli	metameric colour stimuli
 metamerer	metamers
 metameri	metamerism
 metameriindex	metamerism index
@@ -767,32 +760,32 @@ metameriindex	metamerism index
 meteorologisk lysvidd	meteorological optical range
 meteorologisk synvidd	meteorological visibility
 mikrotextur	microtexture; microroughness
-min-max-fˆrhÂllande	diversity
-mindre v‰g	minor road
+min-max-f√∂rh√•llande	diversity
+mindre v√§g	minor road
 minimal erytemdos	minimal erythema dose; MED
 mjukljusarmatur	softlight
 modellering	modelling
 molnandel	fractional cloud cover
-molnm‰ngd	total cloud amount
+molnm√§ngd	total cloud amount
 monokromat	monochromatism
 monokromatisk stimulus	monochromatic stimulus; spectral stimulus
-monokromatisk strÂlning	monochromatic radiation
+monokromatisk str√•lning	monochromatic radiation
 monokromator	monochromator
-monteringshˆjd	mounting height
+monteringsh√∂jd	mounting height
 motljusbelysning	counter-beam lighting; CBL
 motortrafikled	express road
-motorv‰g	motorway; freeway (USA)
+motorv√§g	motorway; freeway (USA)
 multispektral bildregistrering	multispectral image capture; multispectral imaging
-m‰rkeffekt (fˆr en ljusk‰lla)	rated power (of a type of lamp)
-m‰rkljusflˆde	rated luminous flux
-m‰rkv‰rden (fˆr en ljusk‰lla)	rating (of a lamp)
-m‰tavstÂnd	test distance (for photometric measurements)
-m‰tcellsˆppning	aperture; aperture stop
-m‰tplan	reference surface
-m‰ttnad	saturation
-mˆjlig solskenstid	possible sunshine duration (at a particular location)
-mˆrk	dark
-mˆrkerstrˆm	dark current
+m√§rkeffekt (f√∂r en ljusk√§lla)	rated power (of a type of lamp)
+m√§rkljusfl√∂de	rated luminous flux
+m√§rkv√§rden (f√∂r en ljusk√§lla)	rating (of a lamp)
+m√§tavst√•nd	test distance (for photometric measurements)
+m√§tcells√∂ppning	aperture; aperture stop
+m√§tplan	reference surface
+m√§ttnad	saturation
+m√∂jlig solskenstid	possible sunshine duration (at a particular location)
+m√∂rk	dark
+m√∂rkerstr√∂m	dark current
 
 
 N
@@ -801,9 +794,9 @@ homogeneous nondiffusing layer) [an( )]
 nattblindhet	hemeralopia; night blindness
 nattseende	scotopic vision
 
-navigationsm‰rke	navigation mark
+navigationsm√§rke	navigation mark
 nedljusandel	downward light output ratio (of a luminaire)
-nedÂtriktat ljusflˆde	downward flux (of a source) nedÂtriktat ljusflˆdes relativa andel	downward flux fraction (of a luminaire) neutral stegfilterkil	neutral step wedge
+ned√•triktat ljusfl√∂de	downward flux (of a source) ned√•triktat ljusfl√∂des relativa andel	downward flux fraction (of a luminaire) neutral stegfilterkil	neutral step wedge
 neutralfilter	neutral filter
 neutralfilterkil	neutral wedge
 nit	nit (name discouraged) (obsolete)
@@ -812,61 +805,61 @@ normaliserad (bild)signal	normalized (image) signal
 normalreaktor	reference ballast
 normalt katodfall	normal cathode fall
 normerad detektivitet	normalized detectivity (of a detector)
-n‰rf‰lt	proximal field
-n‰thinna	retina
-n‰thinnebr‰nnskada	retunal burn; retinal thermal injury
-nˆdbelysning	emergency lighting
+n√§rf√§lt	proximal field
+n√§thinna	retina
+n√§thinnebr√§nnskada	retunal burn; retinal thermal injury
+n√∂dbelysning	emergency lighting
 
 
 O
-obehagsbl‰ndning	discomfort glare
+obehagsbl√§ndning	discomfort glare
 observationsvinkel	angle of observation
 offentlig belysning	public lighting
-ofullst‰ndig adaptation	incomplete adaptation
-okulˆrt f‰rg	achromatic colour
-omgivande belysningsnivÂ (till bildsk‰rm)	ambient illuminance level (of a display)
+ofullst√§ndig adaptation	incomplete adaptation
+okul√∂rt f√§rg	achromatic colour
+omgivande belysningsniv√• (till bildsk√§rm)	ambient illuminance level (of a display)
 omgivande yta	surrounding area
-omgivningsljusfˆrhÂllande	surround ratio; SR
+omgivningsljusf√∂rh√•llande	surround ratio; SR
 omgivningsyta	surrounding area
-omst‰llbar ljusskylt	light emitting variable message sign; variable message sign
+omst√§llbar ljusskylt	light emitting variable message sign; variable message sign
 onormalt katodfall	abnormal cathode fall
 opakt material	opaque medium
 opaliserad kolv	opal bulb
-optimalf‰rgstimuli	optimal colour stimuli
+optimalf√§rgstimuli	optimal colour stimuli
 optisk armaturverkningsgrad	optical light output ratio; LOR of a luminaire
 
-optisk strÂlning	optical radiation
-optisk t‰thet	optical density
+optisk str√•lning	optical radiation
+optisk t√§thet	optical density
 optiskt djup	optical depth
 optiskt filter	optical filter
 optiskt system	optical system
-orelaterad f‰rg	unrelated colour
-ospiraliserad glˆdtrÂd	straight filament
+orelaterad f√§rg	unrelated colour
+ospiraliserad gl√∂dtr√•d	straight filament
 osymmetrisk ljusarmatur	asymmetrical luminaire
 
 
 P
-pannlampa	miner¥s (personal) lamp; head piece
-pannlampa (fˆr hj‰lm)	cap lamp
+pannlampa	miner¬¥s (personal) lamp; head piece
+pannlampa (f√∂r hj√§lm)	cap lamp
 papperskopia	hardcopy
-parallellkatodfˆrv‰rmning	parallel cathode preheating
-parallellkatodv‰rmning	parallel cathode heating
+parallellkatodf√∂rv√§rmning	parallel cathode preheating
+parallellkatodv√§rmning	parallel cathode heating
 parkeringsljus	parking light
 pendelarmatur	pendant luminaire; suspended luminaire (USA)
-pendell‰ngd	suspension length (of a luminaire in an interior)
+pendell√§ngd	suspension length (of a luminaire in an interior)
 periodiskt ljus	rhythmic light
 pixel (bildelement)	pixel; element
 Plancks konstant	Planck constant
 Plancks lag	Planck's law
 Planck-ort	Planckian locus
-Planck-strÂlare	Planckian radiator
+Planck-str√•lare	Planckian radiator
 planskild korsning	interchange
-plasmask‰rm	plasma display panel; PDP
+plasmask√§rm	plasma display panel; PDP
 platsbelysning	local lighting
 platsorienterad belysning	localized lighting
-platt bildsk‰rm	flat panel display
+platt bildsk√§rm	flat panel display
 polarisator	polarizer
-polariserad strÂlning	polarized radiation
+polariserad str√•lning	polarized radiation
 pollare	bollard
 positionsljus (flygplan)	navigation (aircraft) light
 positionsljus (fordon)	sidelight (vehicle); side-marker light (USA)
@@ -874,23 +867,23 @@ prefokuslampa	prefocus lamp
 
 prefokussockel	prefocus cap; prefocus base (USA)
 pressglaslampa	pressed-glass lamp
-prim‰raxel	first axis (of a luminaire)
-prim‰rljusk‰lla	primary light source
+prim√§raxel	first axis (of a luminaire)
+prim√§rljusk√§lla	primary light source
 prismatisk ljustub	prism light guide
 procent flimmer	percent flicker
-profilstrÂlkastare	profile spotlight
+profilstr√•lkastare	profile spotlight
 projektionsapparat	effects projector
 projektor	projector
 projektorlampa	projection lamp
 protanomali	protanomaly
 protanopi	protanopia
-psykofysisk f‰rg	psychophysical colour
+psykofysisk f√§rg	psychophysical colour
 pulsad lampa	pulsed lamp
 punktbelysning	spotlighting
 punktljushet	point brilliance
-punktljusk‰lla	point source
+punktljusk√§lla	point source
 punktmetod	point by point method
-punktstrÂlare	isotropic point source
+punktstr√•lare	isotropic point source
 pupill-luminans	natural pupil luminance
 Purkinjes fenomen	Purkinje phenomenon
 purpurlinje	purple boundary
@@ -898,27 +891,27 @@ purpurstimulus	purple stimulus
 pyroelektrisk detektor	pyroelectric detector
 
 R
-radavstÂnd	line separation
+radavst√•nd	line separation
 radians	radiance (in a given direction, at a given point of a real or imaginary surface)
 radiansdos	radiance dose; (time) integrated radiance (in a given direction, at a given point of a real or imaginary surface)
 radiansfaktor	radiance factor (at a surface element of a non self radiating medium, in a given direction, under specified conditions of irradiation)
 
 radianskoefficient	radiance coefficient (at a surface element of a medium, in a given direction, under specified conditions of irradiation)
 radianstemperatur	radiance temperature (monochromatic) (of a thermal radiator, for a specified wavelength)
-radiell v‰g	radial road
+radiell v√§g	radial road
 radio- och fotometrilagen	law of radiometry and photometry
 radioluminiscens	radioluminescence
 radiometer	radiometer
 radiometri	radiometry
 rastertak	louvred ceiling; louvered ceiling (USA)
 reciprocitetslag	reciprocity law
-reciprok f‰rgtemperatur	reciprocal colour temperature reducerad luminanskoefficient	reduced luminance coefficient (for a
+reciprok f√§rgtemperatur	reciprocal colour temperature reducerad luminanskoefficient	reduced luminance coefficient (for a
 point on a surface)
 referensbelysning	reference lighting
-referensf‰rgstimuli	reference colour stimuli
+referensf√§rgstimuli	reference colour stimuli
 referenshinder	reference obstacle
 referenslampa	comparison lamp
-referensljusk‰lla	reference illuminant; reference lamp
+referensljusk√§lla	reference illuminant; reference lamp
 referensmedium	reference medium
 referensplan	reference plane
 referenspunkt	reference location; reference point
@@ -934,7 +927,7 @@ radiation of given spectral composition, polarisation and geometric distribution
 
 reflektansfaktortal	reflectance factor (optical) density
 reflektanstal	reflectance (optical) density
-reflekterad globalstrÂlning	reflected (global) solar radiation
+reflekterad globalstr√•lning	reflected (global) solar radiation
 reflekterad luminansfaktor	reflected luminance factor
 reflekterad radiansfaktor	reflected radiance factor
 reflekterande skylt	reflective sign
@@ -943,38 +936,38 @@ reflektivitet	reflectivity (of a material)
 reflektometer	reflectometer
 reflektor	reflector
 reflektorlampa	reflector lamp
-reflektorstrÂlkastare	reflector spotlight
-reflexbl‰ndning	glare by reflection
+reflektorstr√•lkastare	reflector spotlight
+reflexbl√§ndning	glare by reflection
 reflexion	reflection
 reflexionsfaktor	reflectance
-reflexionsm‰tare	reflectometer
+reflexionsm√§tare	reflectometer
 reflexionsvinkel	specular angle
 refraktion	refraction
 refraktor	refractor
-regns‰ker ljusarmatur	rain-proof luminaire
-regulj‰r reflektans	regular reflectance 
-regulj‰r transmission	regular transmission; direct transmission
-regulj‰r transmittans	regular transmittance
-relaterad f‰rg	related colour
-relativ andel av nedÂtriktat ljusflˆde	cumulative downward flux proportion
+regns√§ker ljusarmatur	rain-proof luminaire
+regulj√§r reflektans	regular reflectance 
+regulj√§r transmission	regular transmission; direct transmission
+regulj√§r transmittans	regular transmittance
+relaterad f√§rg	related colour
+relativ andel av ned√•triktat ljusfl√∂de	cumulative downward flux proportion
 (of a source, for a solid angle)
 relativ belysningsverkningsgrad	reduced utilization factor (of an
 installation, for a reference surface)
-relativ k‰nslighet	relative responsivity (of a detector)
+relativ k√§nslighet	relative responsivity (of a detector)
 relativ optisk luftmassa	relative optical air mass
-relativ pendell‰ngd	suspension factor (of an installation or an interior)
+relativ pendell√§ngd	suspension factor (of an installation or an interior)
 relativ rumsverkningsgrad	reduced utilance (of an installation, for a reference surface)
 relativ solskenstid	relative sunshine duration
-relativ spektral k‰nslighet	relative spectral responsivity (of a detector)
-relativ spektralfˆrdelning	relative spectral distribution (of a radiant, luminous or photon quantity)
-relativ spektralfˆrdelning hos
-f‰rgstimulus	relative colour stimulus function
+relativ spektral k√§nslighet	relative spectral responsivity (of a detector)
+relativ spektralf√∂rdelning	relative spectral distribution (of a radiant, luminous or photon quantity)
+relativ spektralf√∂rdelning hos
+f√§rgstimulus	relative colour stimulus function
 repetens	wave number
 reservbelysning	stand-by lighting
 resonanslinje	resonance line
-resulterande f‰rgfˆr‰ndring	resultant colour shift
+resulterande f√§rgf√∂r√§ndring	resultant colour shift
 
-resulterande kolorimetrisk fˆr‰ndring	resultant colorimetric shift
+resulterande kolorimetrisk f√∂r√§ndring	resultant colorimetric shift
 retroluminanskoefficient	coefficient of retroreflected luminance
 (of a plane retroreflective surface)
 retroreflektans	retroreflectance
@@ -987,44 +980,44 @@ riktad belysning	directional lighting
 riktad emissivitet	directional emissivity (of a thermal radiator, in a given direction)
 riktningseffekt	directional effect
 riktningsfyr	direction light
-ringv‰g	ring road
-risk fˆr katarakt av IR-strÂlning	infrared "heat" cataract hazard
-riskavstÂnd fˆr ˆgonskada	ocular hazard distance
+ringv√§g	ring road
+risk f√∂r katarakt av IR-str√•lning	infrared "heat" cataract hazard
+riskavst√•nd f√∂r √∂gonskada	ocular hazard distance
 rotation	rotation (of a luminaire)
-rotationssymmetrisk ljusfˆrdelning	rotationally symmetrical luminous
+rotationssymmetrisk ljusf√∂rdelning	rotationally symmetrical luminous
 intensity distribution (of a source)
 rumsindex	room cavity ratio; roomindex; installation index
 rumsverkningsgrad	utilance (of an installation, for a reference surface)
 rymdvinkel	solid angle (of an area subtended at a point)
-r‰ddningslampa	mine rescue luminaire
+r√§ddningslampa	mine rescue luminaire
 
 
 S
-samlat ljusflˆde	cumulative flux (of a source, for a solid angle)
+samlat ljusfl√∂de	cumulative flux (of a source, for a solid angle)
 scintillator	scintillator
 sealedbeam-lampa	sealed beam lamp
 sektorfyr	sector light
-sekund‰rljusk‰lla	secondary light source
-sekund‰rnormal(lampa)	secondary standard lamp
+sekund√§rljusk√§lla	secondary light source
+sekund√§rnormal(lampa)	secondary standard lamp
 selektiv detektor	selective detector (of optical radiation)
 selektiv diffusion	selective diffusion
 
-selektiv strÂlare	selective radiator
+selektiv str√•lare	selective radiator
 selektivt filter	selective filter
-seriekatodfˆrv‰rmning	series cathode preheating
-seriekatodv‰rmning	series cathode heating
-sf‰risk belysningsstyrka	spherical illuminance
-sf‰risk irradians	spherical irradiance; (radiant) fluence rate
+seriekatodf√∂rv√§rmning	series cathode preheating
+seriekatodv√§rmning	series cathode heating
+sf√§risk belysningsstyrka	spherical illuminance
+sf√§risk irradians	spherical irradiance; (radiant) fluence rate
 (at a point)
-sf‰risk ljusstyrka	spherical luminous intensity
-sf‰risk strÂlningsexponering	radiant spherical exposure; (radiant) fluence (at a
+sf√§risk ljusstyrka	spherical luminous intensity
+sf√§risk str√•lningsexponering	radiant spherical exposure; (radiant) fluence (at a
 point, for a given duration)
 sidolanterna	sidelight (vessels)
 signalljus	signal light
-siktstr‰cka	visual range
-sj‰lvkalibrerande termisk detektor	self-calibrating thermal detector sjˆm‰rke	beacon
-skal‰r belysningsstyrka	scalar illuminance
-skal‰r irradians	scalar irradiance
+siktstr√§cka	visual range
+sj√§lvkalibrerande termisk detektor	self-calibrating thermal detector sj√∂m√§rke	beacon
+skal√§r belysningsstyrka	scalar illuminance
+skal√§r irradians	scalar irradiance
 skenbar magnitud	apparent magnitude
 (of an astronomical object)
 skeppsarmatur	bulkhead luminaire
@@ -1038,25 +1031,25 @@ skyltlykta	number-plate light; license plate light (USA)
 skyltlykta (bakre)	rear registration-plate light
 skymningsseende	mesopic vision
 slaskljus	spill light; stray light
-slˆjbl‰ndning	veiling glare (imaging)
-slˆjluminans	veiling luminance (for disability glare or veiling reflections)
-slˆjreflexer	veiling reflections
-smalstrÂlande ljusarmatur	narrow angle luminaire
-snˆblindhet	photokeraconjunctivitis
+sl√∂jbl√§ndning	veiling glare (imaging)
+sl√∂jluminans	veiling luminance (for disability glare or veiling reflections)
+sl√∂jreflexer	veiling reflections
+smalstr√•lande ljusarmatur	narrow angle luminaire
+sn√∂blindhet	photokeraconjunctivitis
 sockel	cap; base (USA)
 
 softcopy	softcopy
 solarkonstant	solar constant
-solavsk‰rmning	shading
+solavsk√§rmning	shading
 solbrunhet	suntan
-solbr‰nnskada	sunburn
+solbr√§nnskada	sunburn
 solfaktor	solar factor
 sollampa	sunlamp
 solljus	sunlight
 solskenstid	sunshine duration [S]
 solskyddsfaktor	sun protection factor; SPF
-solstrÂlning	solar radiation
-specialstrÂlkastare	special floodlight
+solstr√•lning	solar radiation
+specialstr√•lkastare	special floodlight
 speglande	specular
 speglande reflexion	specular reflection; regular reflection
 spektral	spectral
@@ -1066,43 +1059,43 @@ spectral absorptivitet	spectral absorptivity (of an absorbing material) ? i,o ( 
 spektral inre absorptans	spectral internal absorptance (of a homo- geneous non-diffusing layer)
 spektral inre transmittans	spectral internal transmittance (of a homogeneous non-diffusing layer)
 spektral irradians	spectral irradiance
-spektral k‰nslighet	spectral responsivity(of a detector)
-spektral linj‰r absorptionskoefficient	spectral linear absorption coefficient
+spektral k√§nslighet	spectral responsivity(of a detector)
+spektral linj√§r absorptionskoefficient	spectral linear absorption coefficient
 (at a point in an absorbing medium, for a collimated beam of radiation)
-spektral linj‰r diffusionskoefficient	spectral linear scattering coefficient (at a
+spektral linj√§r diffusionskoefficient	spectral linear scattering coefficient (at a
 point in a diffusing medium, for a collimated beam of radiation)
-spektral linj‰r d‰mpningskoefficient	spectral linear attenuation coefficient (at a point in
+spektral linj√§r d√§mpningskoefficient	spectral linear attenuation coefficient (at a point in
 an absorbing and diffusing medium, for a collimated beam of radiation)
 spektral ljusverkningsgrad	spectral luminous efficiency (of a monochromatic radiation of wavelength ) (V( ) for photopic vision; V'( ) for scotopic vision)
-spektral massd‰mpningskoefficient	spectral mass attenuation coefficient
+spektral massd√§mpningskoefficient	spectral mass attenuation coefficient
 spektral radians	spectral radiance (for a wavelength interval d?, in a given direction at a given point)
 spektral renhet	excitation purity
 spektral transmissivitet	spectral transmissivity (of an absorbing material)
-spektral t‰thet	spectral concentration (of a radiant, luminous or photon quantity)
-spektral viktfunktion fˆr blÂljusskaderisk	blue light hazard spectral weighting function spektral viktfunktion fˆr UV-risk	ultraviolet hazard spectral weighting function
-spektral viktfunktion fˆr v‰rmeskade-
-k‰nslighet (hos n‰thinnan)	retinal thermal hazard spectral weighting function
+spektral t√§thet	spectral concentration (of a radiant, luminous or photon quantity)
+spektral viktfunktion f√∂r bl√•ljusskaderisk	blue light hazard spectral weighting function spektral viktfunktion f√∂r UV-risk	ultraviolet hazard spectral weighting function
+spektral viktfunktion f√∂r v√§rmeskade-
+k√§nslighet (hos n√§thinnan)	retinal thermal hazard spectral weighting function
 spektrala basfunktioner	spectral basis functions
 spektrala kromaticitetskoordinater	spectral chromaticity coordinates r(?), g(?),
 b(?); x(?), y(?), z(?); x10(?), y10(?), z10(?)
-spektralfˆrdelning	spectral distribution (of a radiant..) spektralfˆrdelning hos f‰rgstimulus	colour stimulus function (??(?)) spektrallampa	spectroscopic lamp
+spektralf√∂rdelning	spectral distribution (of a radiant..) spektralf√∂rdelning hos f√§rgstimulus	colour stimulus function (??(?)) spektrallampa	spectroscopic lamp
 spektrallinje	spectral line
 spektralt absorptionsindex	spectral absorption index (of a heavily absorbing material) [ ( )]
 
 spektralt neutral	spectrally non-selective; spectrally neutral
 spektralt optiskt djup	spectral optical thickness; spectral optical depth (of a medium, for a given length)
-spektralt riskomrÂde fˆr retinaskada	retinal hazard spectral region spektrofotometer	spectrophotometer
+spektralt riskomr√•de f√∂r retinaskada	retinal hazard spectral region spektrofotometer	spectrophotometer
 spektroradiometer	spectroradiometer
 spektrum	spectrum
 spektrumort	spectrum locus
 spilljus	spill light; stray light
-spols‰ker ljusarmatur	jet-proof luminaire
+spols√§ker ljusarmatur	jet-proof luminaire
 spotlight	spotlight
 spridning	spread
 spridningsvinkel	beam spread
-spÂrbildning	rutting
-spˆkljus	sun phantom
-sRGB f‰rgrymd	sRGB colour space
+sp√•rbildning	rutting
+sp√∂kljus	sun phantom
+sRGB f√§rgrymd	sRGB colour space
 standarderytemdos	standard erythema dose; SED
 starttid	starting time
 stavar	rods
@@ -1113,81 +1106,81 @@ stiftsockel	pin cap; pin base (USA)
 stigtid	rise time (of a detector)
 Stiles-Crawfords effekt	Stiles-Crawford effect (of the first kind)
 stimulerad emission	stimulated emission
-strÂlkastare	projector
-strÂlkastarlampa	projector lamp
-strÂlning (elektromagnetisk)	radiation (electromagnetic)
-strÂlningseffekt	radiant power
-strÂlningsenergi	radiant energy
-strÂlningsexitans	radiant exitance
-strÂlningsexponering	radiant exposure (at a point of a surface, for a given duration)
-strÂlningsexponeringsm‰tare	radiant exposure meter
-strÂlningsflˆde	radiant flux
+str√•lkastare	projector
+str√•lkastarlampa	projector lamp
+str√•lning (elektromagnetisk)	radiation (electromagnetic)
+str√•lningseffekt	radiant power
+str√•lningsenergi	radiant energy
+str√•lningsexitans	radiant exitance
+str√•lningsexponering	radiant exposure (at a point of a surface, for a given duration)
+str√•lningsexponeringsm√§tare	radiant exposure meter
+str√•lningsfl√∂de	radiant flux
 
-strÂlningsk‰lla	source
-strÂlningsm‰tare	radiometer
-strÂlningsm‰tning	radiometry
-strÂlningsstyrka	radiant intensity (of a source, in a given direction)
-strÂlningsutbyte	radiant efficiency (of a source of radiation)
-strˆljus	spill light; stray light
+str√•lningsk√§lla	source
+str√•lningsm√§tare	radiometer
+str√•lningsm√§tning	radiometry
+str√•lningsstyrka	radiant intensity (of a source, in a given direction)
+str√•lningsutbyte	radiant efficiency (of a source of radiation)
+str√∂ljus	spill light; stray light
 styrstift	bayonet pin
-st‰llbar ljusarmatur	adjustable luminaire
-st‰nks‰ker ljusarmatur	splash-proof luminaire
-stˆrande ljus	obtrusive light
+st√§llbar ljusarmatur	adjustable luminaire
+st√§nks√§ker ljusarmatur	splash-proof luminaire
+st√∂rande ljus	obtrusive light
 svarstid	response time (of a detector)
 svart kropp	blackbody
 svart temperatur	radiance temperature
-svetsbl‰nk	photokeratoconjuntivitis
+svetsbl√§nk	photokeratoconjuntivitis
 symbol	symbol
 symmetrisk belysning	symmetric lighting
 symmetrisk ljusarmatur	symmetrical luminaire
-symmetrisk ljusfˆrdelning	symmetrical luminous intensity distribution
+symmetrisk ljusf√∂rdelning	symmetrical luminous intensity distribution
 (of a source)
 synbarhet	visibility
-synbarhetsnivÂ	visibility level
-synf‰lt	field of view
-synfˆrnimmelse	visual sensation
-synkrotronstrÂlning	synchrotron radiation
+synbarhetsniv√•	visibility level
+synf√§lt	field of view
+synf√∂rnimmelse	visual sensation
+synkrotronstr√•lning	synchrotron radiation
 synledning	visual guidance
-synlig strÂlning	visible radiation
-synneds‰ttande bl‰ndning	disability glare
+synlig str√•lning	visible radiation
+synneds√§ttande bl√§ndning	disability glare
 synperception	visual perception
 synprestation	visual performance
-synsk‰rpa	visual acuity; visual resolution
-syntrˆskel	threshold of illuminance; visual threshold
+synsk√§rpa	visual acuity; visual resolution
+syntr√∂skel	threshold of illuminance; visual threshold
 synuppgift	visual task
 synvinkel	visual angle
-s‰kerhetsbelysning	safety lighting
-s‰ttningszonsljus	runway touchdown zone light
-sˆkarstrÂlkastare	searchlight
+s√§kerhetsbelysning	safety lighting
+s√§ttningszonsljus	runway touchdown zone light
+s√∂karstr√•lkastare	searchlight
 
 
 T
-takfˆnster	rooflight; skylight
-takhÂlrumsindex	ceiling cavity index; ceiling cavity ratio (USA)
-takinf‰lld ljusarmatur	troffer
-takramp fˆr v‰ggbelysning	cornice lighting
+takf√∂nster	rooflight; skylight
+takh√•lrumsindex	ceiling cavity index; ceiling cavity ratio (USA)
+takinf√§lld ljusarmatur	troffer
+takramp f√∂r v√§ggbelysning	cornice lighting
 Talbots lag	Talbot's law
 tappar	cones
 taxningsljus	taxiing light
-teckenavstÂnd	character separation
-teckenhˆjd	character height
+teckenavst√•nd	character separation
+teckenh√∂jd	character height
 teckenmatris	character matrix
-teckenupps‰ttning fˆr omst‰llbar skylt	variable message set temperaturstrÂlare	thermal radiator
-temperaturstrÂlning	thermal radiation
+teckenupps√§ttning f√∂r omst√§llbar skylt	variable message set temperaturstr√•lare	thermal radiator
+temperaturstr√•lning	thermal radiation
 termisk ljusalstring	incandescence
-termisk (strÂlnings)detektor	thermal detector of radiation; thermal
+termisk (str√•lnings)detektor	thermal detector of radiation; thermal
 (radiation) detector
-termoelement (fˆr strÂlning)	thermocouple (radiation)
+termoelement (f√∂r str√•lning)	thermocouple (radiation)
 termokromism	thermochromism
 termoluminiscens	thermally activated luminescence; thermoluminescence
-termostapel (fˆr strÂlning)	thermopile (radiation)
-tid med krav pÂ ljusd‰mpning	curfew
+termostapel (f√∂r str√•lning)	thermopile (radiation)
+tid med krav p√• ljusd√§mpning	curfew
 tidskonstant	time constant ( of a detector whose output varies exponentially with time)
-tillfartsstr‰cka	access zone
-tillfartsstr‰ckans luminans	access zone luminance
+tillfartsstr√§cka	access zone
+tillfartsstr√§ckans luminans	access zone luminance
 topplanterna	mast-head light
 totalreflekterande diffusor	perfect reflecting diffuser
-totalt ljusflˆde	total flux (of a source)
+totalt ljusfl√∂de	total flux (of a source)
 totaltransmitterande diffusor	perfect transmitting diffuser
 trafikregleringsutrustning	traffic control device
 trafiksignal	traffic light; traffic signal
@@ -1196,64 +1189,64 @@ transluscent material	translucent medium
 
 transmission	transmission
 transmittans	transmittance (for incidence radiation of given spectral composition, polarization and geometric distribution)
-transmittans fˆr solstrÂlning	total (energy) transmittance (of glazing material)
+transmittans f√∂r solstr√•lning	total (energy) transmittance (of glazing material)
 transmittansfaktor	transmittance factor
 transmittanstal	transmittance (optical) density
 transparant material	transparent medium
 triboluminiscens	triboluminescence
 trikromatiskt system	trichromatic system
-tristimulusv‰rden	tristimulus values (of a colour stimulus)
+tristimulusv√§rden	tristimulus values (of a colour stimulus)
 tritanomali	tritanomaly
 tritanopi	tritanopia
 troland	troland
 trottoar	footway; pavement
 tryckluftlampa	air-turbo lamp; compressed air luminaire (USA)
-trˆskelv‰rdesˆkning	threshold incerement
-trˆskelzon	threshold zone
-trˆskelzonsluminans	threshold zone luminance (at a specific location in the threshold zone)
+tr√∂skelv√§rdes√∂kning	threshold incerement
+tr√∂skelzon	threshold zone
+tr√∂skelzonsluminans	threshold zone luminance (at a specific location in the threshold zone)
 tunnel	tunnel
-tunnelentrÈ	entrance portal
+tunnelentr√©	entrance portal
 tunnelutfart	exit portal
 turbiditetsfaktor (enligt Linke)	total turbidity factor (according to Linke)
-tvÂ (eller flera) v‰xelvis blinkande ljusk‰llor	reciprocating lights tv‰rsriktning	transverse direction
+tv√• (eller flera) v√§xelvis blinkande ljusk√§llor	reciprocating lights tv√§rsriktning	transverse direction
 tydlighet	conspicuity
-t‰ndare	starter; ignitor
-t‰nddon	starting device
-t‰ndelektrod	starting electrode
-t‰ndsp‰nning	starting voltage
-t‰ndstrimla	starting strip
+t√§ndare	starter; ignitor
+t√§nddon	starting device
+t√§ndelektrod	starting electrode
+t√§ndsp√§nning	starting voltage
+t√§ndstrimla	starting strip
 
 
 U
 UCS-diagram	uniform-chromaticity-scale diagram; UCS diagram
 Ulbrichts fotometerklot	Ulbricht sphere
 
-ultraviolettstrÂlning	ultraviolet radiation; UVR
-underhÂllsprogram baserat pÂ l‰gsta
-driftv‰rde	equilux maintenance programme underhÂllsprogram med fast intervall	equi-interval maintenance programme uppfattad f‰rg	perceived colour
-uppljusandel (frÂn en ljusarmatur)	upward light output ratio; ULOR;
+ultraviolettstr√•lning	ultraviolet radiation; UVR
+underh√•llsprogram baserat p√• l√§gsta
+driftv√§rde	equilux maintenance programme underh√•llsprogram med fast intervall	equi-interval maintenance programme uppfattad f√§rg	perceived colour
+uppljusandel (fr√•n en ljusarmatur)	upward light output ratio; ULOR;
 upward light ratio; ULR
-upps‰ttning av fasta budskap	fixed message set
-uppÂtriktat ljusflˆde	upward flux (of a source)
+upps√§ttning av fasta budskap	fixed message set
+upp√•triktat ljusfl√∂de	upward flux (of a source)
 urladdningslampa	discharge lamp
-urladdningsrˆr	arc tube
+urladdningsr√∂r	arc tube
 utfartszon	exit zone; parting zone
 utfartszonbelysning	exit zone lighting
-utflˆdesgeometri	efflux geometry
+utfl√∂desgeometri	efflux geometry
 utomhusbelysning	outdoor lighting
-utrustningsberoende f‰rgrymd	device-dependent colour space
+utrustningsberoende f√§rgrymd	device-dependent colour space
 utrymningsljus	escape lighting
 utseende	appearance
 utsignal	output (for a dtector of optical radiation)
-utsl‰ckning	washout
-utstrÂlningst‰thet	radiant exitance (at a point of a surface)
-utˆkad gamut	extended gamut
+utsl√§ckning	washout
+utstr√•lningst√§thet	radiant exitance (at a point of a surface)
+ut√∂kad gamut	extended gamut
 UV-A, B, C	UV-A, B, C
-UV-inducerad katarakt (grÂ starr),
+UV-inducerad katarakt (gr√• starr),
    bildandet av	ultraviolet photo-cataractogenesis UV-lampa	ultraviolet lamp
 UV-skyddsfaktor	ultraviolet protection factor; UPF
-UV-strÂlning	ultraviolet radiation; UVR; UV-radiation
-UVA-ljusk‰lla	black light lamp
+UV-str√•lning	ultraviolet radiation; UVR; UV-radiation
+UVA-ljusk√§lla	black light lamp
 
 
 V
@@ -1261,148 +1254,65 @@ vakuumlampa	vacuum (incandescent) lamp
 varmkatodlampa	hot cathode lamp
 varningsblinker	hazard warning signal
 varselljus	daytime running lights; DRL
-vattent‰t ljusarmatur	watertight luminaire
+vattent√§t ljusarmatur	watertight luminaire
 
-versalhˆjd	character height
+versalh√∂jd	character height
 vertikal belysningsstyrka	vertical illuminance
 vingbar	wing bar
-vinkelr‰t solbelysningsstyrka	normal solar illuminance
-vinkler‰t solstrÂlning	normal solar irradians
+vinkelr√§t solbelysningsstyrka	normal solar illuminance
+vinkler√§t solstr√•lning	normal solar irradians
 vinkelstorlek	angular subtense
 visuell fotometri	visual photometry
 visuell glidbaneindikator	visual approach slope indicator,
 visuell kolorimetri	visual colorimetry
-visuell kontrasttrˆskel	visual contrast threshold
+visuell kontrasttr√∂skel	visual contrast threshold
 visuell signal	visual signal
 visuellt detekterbar elektromagnetisk
-strÂlning	visual light
+str√•lning	visual light
 vitbalans	white balance
 vitpunkt	white point
 volframbandlampa	tungsten ribbon lamp ; strip lamp (USA)
-volframtrÂdlampa	tungsten filament lamp
-volymf‰rg	volume colour
+volframtr√•dlampa	tungsten filament lamp
+volymf√§rg	volume colour
 von Krefelds additionslag	additivity law of von Krefeld
-von Kries' best‰ndighetslag	(von Kries') persistence law
-vÂgl‰ngd	wavelength
-vÂgtal	wave number
-v‰g	road
-v‰g med blandad trafik	all purpose road
-v‰gbana	carriage way; pavement (USA)
-v‰gbanefriktion	skid resistance
-v‰gbanemarkering	carriage way marking; road stud; raised pavement marker (USA) pavement marking (USA)
-v‰gbaneyta	road surface
-v‰ggramp fˆr takbelysning	cove lighting
-v‰gkorsning	intersection
-v‰gmarkering road marking
-v‰gm‰rke	sign plate; traffic sign; sign panel (USA)
-v‰xelvis blinkande ljusk‰llor, tvÂ (eller flera)	reciprocating light v‰xlande f‰rgbl‰nk	alternating light
+von Kries' best√§ndighetslag	(von Kries') persistence law
+v√•gl√§ngd	wavelength
+v√•gtal	wave number
+v√§g	road
+v√§g med blandad trafik	all purpose road
+v√§gbana	carriage way; pavement (USA)
+v√§gbanefriktion	skid resistance
+v√§gbanemarkering	carriage way marking; road stud; raised pavement marker (USA) pavement marking (USA)
+v√§gbaneyta	road surface
+v√§ggramp f√∂r takbelysning	cove lighting
+v√§gkorsning	intersection
+v√§gmarkering road marking
+v√§gm√§rke	sign plate; traffic sign; sign panel (USA)
+v√§xelvis blinkande ljusk√§llor, tv√• (eller flera)	reciprocating light v√§xlande f√§rgbl√§nk	alternating light
 
 W
-Wiens (strÂlnings)lag	Wien's law (of radiation)
+Wiens (str√•lnings)lag	Wien's law (of radiation)
 Woods glaslampa	Wood's glass lamp
 
 
 X
-x-hˆjd	"x"--height
+x-h√∂jd	"x"--height
 
 Y
-ytf‰rg	surface colour ;
-ytf‰rg (uppfattad)	object mode (of colour appearance)
+ytf√§rg	surface colour ;
+ytf√§rg (uppfattad)	object mode (of colour appearance)
 ytterbelagd kolv	coated bulb
 
 
 Z
-zonljusflˆde	zonal flux (of a source, for a zone)
+zonljusfl√∂de	zonal flux (of a source, for a zone)
 
-≈
-Âttagradersgeometri	eight degree geometry
+√Ö
+√•ttagradersgeometri	eight degree geometry
 
-÷
-(ˆmsesidig) utbyteskoefficient	(mutual) exchange coefficient (between
+√ñ
+(√∂msesidig) utbyteskoefficient	(mutual) exchange coefficient (between
 two surfaces S1 and S2, when the radiance or luminance of S1 (or S2) is the same at all points and for all directions)
-ˆvergÂngszon	transition zone
-ˆverv‰gande direkt belysning	semi-direct lighting
-ˆverv‰gande indirekt belysning	semi-indirect lighting
-
-
-45-gradig ringformig geometri	forty-five degree annular (450a) geometry 45-gradig riktad geometri	forty-five degree directional (450x) geometry
-
-Fˆljande termer och uttryck har inte blivit ˆversatta: anti-Stokes luminescence	- aperture mode (of colour appearance)	-
-array detector	-
-bi-directional reflectance
-distribution function (BRDF)	-
-bispectral luminescent
-radiance factor, (	
-blue light hazard (time) integrated
-radiance	-
-blue light hazard radiance dose	-
-
-blue light hazard radiant exposure (Hb)	-
-BRDF (bi-directional reflectance
-distribution function)	-
-characteristic luminance of
-the chromaticity	-
-CIE standard deviate observer	-
-colour component transfer function	-
-colour re-rendering	-
-continuous wave (CW) lamp	-
-deutan	-
-dichromatism	-
-display input/output characteristic	-
-effective visual (luminous) density	-
-equality-of-brightness photometer	-
-equality-of-contrast photometer	- external photoluminescence quantum
-yield	-
-external quantum efficiency (of a
-detector) (?e, ?)	-
-
-film rendering transform-film unrendering transform-fire emergency guidance lighting-flux code (of a luminaire)-flux triplet (of a source)-group A sign-group B sign-
-group C sign	-
-hue quadrature	-
-ICC profile connection space (ICC PCS)	-
-image colour appearance model	-
-image state	-
-installation azimuth (with respect to a given point on the road surface and a given luminaire at its tilt during
-measurement) (?)	-
-large source	-
-light extractor (of a hollow light guide)	-
-light injector (of a hollow light guide)	-
-luminescent luminance factor	-
-luminescent radiance factor,	-
-luminous cylindrical exposure	-
-luminous extinction coefficient [av]	-
-luminous spherical exposure	-
-man-made sky glow	-
-medium black point	-
-medium white point	-
-monochromatic mode	-
-Napierian spectral internal transmit- tance density; Napierian spectral absorbance (of a homogeneous non-
-diffusing layer) [An(	B( )]	-
-natural sky glow	-
-optical extent	-
-opto-electronic conversion function,
-OECF	-
-original-referred image state	-
-output-referred image state	-
-perceptual attribute correlate	-
-permissible luminaire	-
-phantom sign	-
-photon cylindrical exposure	-
-photon cylindrical irradiance	-
-photon spherical exposure	-
-photon spherical irradiance	-
-
-
-PIARC-picture-referred image state-point vision-polychromatic mode-polychromator-preferred reproduction model-preferred-channel light-preferred-channel mark-profile connection space, (PCS)-protan-radiant cylindrical exposure-relevant boundary-rendering intent-retinal thermal radiance [Lr]-sampling aperture-self-exchange coefficient (of a surface whenits radiance or luminance is the same at allpoints and for all directions) [gs]-service road-single stimulus appearance model-single stimulus background-spectral quantum efficiency of the fluorescent process, (??(?))
--spot colour-standard original-referred colourimage data-
-standard output-referred colour
-image data	-
-standard scene-referred colour
-image data	-
-sun-tight screens	-
-vertical photometric angle (of a light
-path) (?)	-
-viewing flare	-
-zero degree directional geometry (0∞)	-
-
-
+√∂verg√•ngszon	transition zone
+√∂verv√§gande direkt belysning	semi-direct lighting
+√∂verv√§gande indirekt belysning	semi-indirect lighting
